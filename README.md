@@ -153,6 +153,4 @@ Endpoints include:
 
 ---
 
-# ❤️ Built With Flutter
-
-Designed and developed with ❤️ usi
+#  Built With Flutter
